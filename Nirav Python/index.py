@@ -1,0 +1,2 @@
+print("Namaste Bharat")
+
